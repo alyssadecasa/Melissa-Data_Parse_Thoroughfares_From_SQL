@@ -1,0 +1,11 @@
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\bin\Debug\netcoreapp2.0\ModifySQLTable.deps.json
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\bin\Debug\netcoreapp2.0\ModifySQLTable.runtimeconfig.json
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\bin\Debug\netcoreapp2.0\ModifySQLTable.runtimeconfig.dev.json
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\bin\Debug\netcoreapp2.0\ModifySQLTable.dll
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\bin\Debug\netcoreapp2.0\ModifySQLTable.pdb
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\obj\Debug\netcoreapp2.0\ModifySQLTable.csproj.CoreCompileInputs.cache
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\obj\Debug\netcoreapp2.0\ModifySQLTable.AssemblyInfoInputs.cache
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\obj\Debug\netcoreapp2.0\ModifySQLTable.AssemblyInfo.cs
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\obj\Debug\netcoreapp2.0\ModifySQLTable.pdb
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\obj\Debug\netcoreapp2.0\ModifySQLTable.csprojAssemblyReference.cache
+C:\Users\alyssa\source\repos\ModifySQLTable\ModifySQLTable\obj\Debug\netcoreapp2.0\ModifySQLTable.csproj.CopyComplete
